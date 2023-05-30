@@ -8,9 +8,3 @@ Modeling protein-protein interactions:
 Modeling contacts:
 
 
-
-## Authors
-
-- Ben Lai
-- Aly Khan
-
