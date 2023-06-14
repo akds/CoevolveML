@@ -1,11 +1,12 @@
 # CoevolveML
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8035449.svg)](https://doi.org/10.5281/zenodo.8035449)  
 **Deploying synthetic coevolution and machine learning to engineer protein-protein interactions**  
 
 *Fine-tuning of protein-protein interactions occurs naturally through coevolution, but this process isdifficult to recapitulate in the laboratory. We describe a synthetic platform for protein-protein coevolution that can isolate matchedpairs of interacting muteins from complex libraries. This large dataset of coevolved complexesdrove a systems-level analysis of molecular recognition between Z  domain-affibody  pairs  spanning  a  wide  range  of  structures,  affinities,  cross-reactivities,  and orthogonalities,  and  captured  a  broad  spectrum  of  coevolutionary  networks.  Furthermore, we harnessed pre-trained protein language models to expand, in silico, the amino aciddiversity of our coevolution screen, predicting remodeled interfaces beyond the reach of the experimental library. The integration of these approaches provides a means of generating protein complexes with diverse molecular recognition properties as tools for biotechnologyand synthetic biology.*
 
 Paper Link [TBD]
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8035449.svg)](https://doi.org/10.5281/zenodo.8035449)  
+
 
 <p align='center'>
 <img src="https://github.com/akds/CoevolveML/blob/main/img/Fig.png" width="75%" >
