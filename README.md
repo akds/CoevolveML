@@ -3,7 +3,7 @@
 [[Paper]](TBD)
 [[Zenodo badge]]
 <p align='center'>
-<img src="" width="400" height="500">
+<img src="https://github.com/akds/CoevolveML/blob/main/img/Fig.png" width="400" height="500">
  </p> 
 
 
