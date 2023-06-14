@@ -4,7 +4,7 @@
 [[Paper]](TBD)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8034582.svg)](https://doi.org/10.5281/zenodo.8034582)
 <p align='center'>
-<img src="https://github.com/akds/CoevolveML/blob/main/img/Fig.png" width="1966" height="300">
+<img src="https://github.com/akds/CoevolveML/blob/main/img/Fig.png" width="75%" >
  </p> 
 
 
